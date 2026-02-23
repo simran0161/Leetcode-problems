@@ -23,4 +23,5 @@ class Solution {
 
         return dummynode.next;
     }
-}
+}in 28 minutes
+Faizal meman
